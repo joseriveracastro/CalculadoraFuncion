@@ -15,3 +15,4 @@ numero2 = int(input('Digite otro numero '))
 opcion = int(input('Digite (1) para suma y (2) para resta '))
 
 calculadora(numero1,numero2,opcion)
+calculadora(1,2)
